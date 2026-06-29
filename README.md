@@ -14,5 +14,7 @@ To keep this repository clean and easy to navigate, I use a specific branching s
 *(As I build projects, they will be listed here!)*
 
 | Project Name | Area/Tech Stack | Status |
+
 | **[Multilayer Perceptron Implementation for Regression]** | Machine Learning, Python | Complete (`main` branch) |
+
 | **[Gomoku Game]** | Object-Oriented Programming, Python | Planned (not yet published in any form) |
