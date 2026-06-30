@@ -17,4 +17,4 @@ To keep this repository clean and easy to navigate, I use a specific branching s
 
 | **Multilayer Perceptron Implementation for Regression** | Machine Learning, Python | Complete (`main` branch) |
 
-| **Gomoku Game** | Object-Oriented Programming, Python | Planned (not yet published in any form) |
+| **Gomoku Game** | Object-Oriented Programming, C#/Windows Forms | In development (`production` branch) |
