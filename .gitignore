@@ -35,6 +35,55 @@ htmlcov/
 *.so
 
 # ==========================================
+# C# & Visual Studio (WinForms)
+# ==========================================
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio specific files and folders
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.vssscc
+
+# NuGet Packages
+*.nupkg
+packages/
+!packages/build/
+
+# Publish profiles and outputs
+*.pubxml
+*.pubxml.user
+Publish/
+
+# Profiler and Test results
+*.psess
+*.vsp
+*.vspx
+*.vspcc
+TestResults/
+
+# Logs and Caches
+*.log
+*.cache
+
+# ==========================================
+# OS Specific Files
+# ==========================================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
 # Editor & OS Specific Files
 # ==========================================
 
