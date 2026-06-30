@@ -17,4 +17,4 @@ To keep this repository clean and easy to navigate, I use a specific branching s
 
 | **Multilayer Perceptron Implementation for Regression** | Machine Learning, Python | Complete (`main` branch) |
 
-| **Gomoku Game** | Event Driven Programming, C#/WPF | Planned (not yet published in any form) |
+| **Gomoku Game** | Event Driven Programming, C#/WinForms | Planned (not yet published in any form) |
