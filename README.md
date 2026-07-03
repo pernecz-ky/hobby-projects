@@ -16,5 +16,3 @@ To keep this repository clean and easy to navigate, I use a specific branching s
 | Project Name | Area/Tech Stack | Status |
 
 | **Multilayer Perceptron Implementation for Regression** | Machine Learning, Python | Complete (`main` branch) |
-
-| **Gomoku Game** | Object-Oriented Programming, C#/Windows Forms | In development (`production` branch) |
