@@ -1,6 +1,6 @@
 # Hobby Projects Portfolio
 
-This repository is dedicated to showcasing my professional growth and practical skills through hobby projects across various areas of programming like object-oriented programming and machine learning.
+This repository is dedicated to showcasing my professional growth and practical skills through hobby projects across various areas of programming like data science and machine learning.
 
 ## 🌿 Branching Strategy
 
@@ -16,3 +16,5 @@ To keep this repository clean and easy to navigate, I use a specific branching s
 | Project Name | Area/Tech Stack | Status |
 
 | **Multilayer Perceptron Implementation for Regression** | Machine Learning, Python | Complete (`main` branch) |
+
+| **Churning prediction** | Data Science, Python | Planned (not yet in development) |
