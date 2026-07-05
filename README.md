@@ -15,6 +15,6 @@ To keep this repository clean and easy to navigate, I use a specific branching s
 
 | Project Name | Area/Tech Stack | Status |
 
-| **Multilayer Perceptron Implementation for Regression** | Machine Learning, Python | Complete (`main` branch) |
+| **Multilayer Perceptron Implementation for Regression** | Neural Networks, Python | Complete (`main` branch) |
 
-| **Churning prediction** | Data Science, Python | In development (`production` branch) |
+| **Churning prediction** | Data Science, Machine Learning, Python, Power BI | In development (`production` branch) |
