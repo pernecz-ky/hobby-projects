@@ -17,4 +17,6 @@ To keep this repository clean and easy to navigate, I use a specific branching s
 
 | **Multilayer Perceptron Implementation for Regression** | Neural Networks, Python | Complete (`main` branch) |
 
-| **Churning prediction** | Data Science, Machine Learning, Python, Power BI | In development (`production` branch) |
+| **Churn Prediction** | Data Science, Machine Learning, Python, Power BI | Complete (`main` branch) |
+
+| **Convolutional Neural Network** | Neural Networks, Python | Planned (not public) |
