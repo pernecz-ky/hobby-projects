@@ -7,7 +7,8 @@ This repository is dedicated to showcasing my professional growth and practical 
 To keep this repository clean and easy to navigate, I use a specific branching structure based on the status of the projects:
 
 * **`main` branch:** This branch contains **complete projects**. If a project is merged into this branch, it means it is fully functional, polished, and ready to be reviewed.
-* **`production` branch:** This branch contains projects that are **still in development**. It serves as my active workspace for ongoing coding, experiments, and unfinished ideas. 
+* **`production` branch:** This branch contains projects that are **still in development**. It serves as my active workspace for ongoing coding, experiments, and unfinished ideas.
+* **`archive` branch:** This branch contains unfinished projects that are **not being developed** for some reason. However, as long as they are public there is a chance I will return to them in the future.   
 
 ## 🚀 Projects Overview
 
@@ -19,4 +20,4 @@ To keep this repository clean and easy to navigate, I use a specific branching s
 
 | **Churn Prediction** | Data Science, Machine Learning, Python, Power BI | Complete (`main` branch) |
 
-| **Convolutional Neural Network** | Neural Networks, Python | Planned (not public) |
+| **Convolutional Neural Network** | Neural Networks, Python | On hold (`archive` branch) |
