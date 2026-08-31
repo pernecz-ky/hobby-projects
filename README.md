@@ -21,3 +21,5 @@ To keep this repository clean and easy to navigate, I use a specific branching s
 | **Churn Prediction** | Data Science, Machine Learning, Python, Power BI | Complete (`main` branch) |
 
 | **Convolutional Neural Network** | Neural Networks, Python | On hold (`archive` branch) |
+
+I also have several projects I did as parts of IBM courses in the fields of data science and machine learning, all of which can be found in thir respective folders.
